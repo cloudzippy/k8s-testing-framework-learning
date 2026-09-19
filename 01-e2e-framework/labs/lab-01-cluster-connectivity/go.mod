@@ -3,6 +3,6 @@ module github.com/cloudzippy/k8s-testing-framework-learning/01-e2e-framework/lab
 go 1.24
 
 require (
-	k8s.io/api v0.34.1
+	k8s.io/api v0.32.1
 	sigs.k8s.io/e2e-framework v0.6.0
 )
